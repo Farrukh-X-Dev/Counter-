@@ -80,5 +80,5 @@ Feel free to fork the repository and submit a pull request with your improvement
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+### In the guidance of Sir Abdul Rehman
 ## Made my Farrukh Noman
-## Supervised by Sir Abdul-Rehman
